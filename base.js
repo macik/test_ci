@@ -1,3 +1,5 @@
+// just for test
+
 function getBaseHref() {
 	var href = document.getElementsByTagName('base')[0].href;
 	if (href == null) {
