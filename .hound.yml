@@ -1,0 +1,5 @@
+
+javascript:
+  config_file: .ci/.javascript-style.json
+
+fail_on_violations: true
